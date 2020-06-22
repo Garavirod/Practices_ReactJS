@@ -18,8 +18,8 @@ const List = () => {
     return ( 
         <div >
             <p>These are the numbers</p>
-            <button onClick={addNumber}>Add number</button>
-            <hr/>
+            <button onClick={addNumber}>Add number</button>            
+            {/* Print an array in HTML suing script insde */}
             {
                 numbers.map((item,index)=>
                     <p key={index}> {item} - {index}</p>
