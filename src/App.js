@@ -2,6 +2,7 @@ import React from 'react';
 import Counter from './components/Counter';
 import List from './components/List';
 import Form from './components/Form';
+import FormHook from './components/FormHook';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
        <List/>
        <hr/>
        <Form/>
+       <hr/>
+       <FormHook/>
    </div>
   );
 }
