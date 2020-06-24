@@ -55,13 +55,3 @@ const Form = ()=>{
 
 export default Form;
 
-/**
- * Como llenan parte de 'Operadores'
- * Corrida - Corredor
- * Cred MB - Justififacion semana
- * Preguntar NS
- * Instruccion l Ded Opera L1
- * Campo ok - Quein
- * Jornada - DOp L1
- * Diferencias entre rutas A de la matriz 
- */
