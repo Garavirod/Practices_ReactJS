@@ -25,7 +25,7 @@ const FormOne = ()=>{
                     name="titulo"
                     ref={
                         register({
-                            required: {value:true, message: 'Ingrese un nombre'}
+                            required: {value:true, message: 'Set your name'}
                         })
                     }
                     className="form-control my-2"
